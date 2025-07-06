@@ -1,8 +1,10 @@
 # Dastan Hairushev
+
 # My contact info
 * Telegram: @FierceSloth
 * Email: hairushevdastan@gmail.com
 * Discord: @fiercesloth_
+
 # Summary
 Having started learning programming in the summer of 2024, I am gradually getting more and more into the frontend. I can study for 5-7 hours a day, and I am interested in it. I like to solve complex problems with good music.
 My main strengths are quickly understanding complex aspects and quickly solving problems. My main goal now is to become a professional frontend developer. I believe that patience and hard work will help me achieve this.
