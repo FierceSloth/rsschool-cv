@@ -55,6 +55,6 @@ __Hexlet JavaScript Basics__
 __Learn.Javascript.ru (Self-Study)__
 - In-depth JavaScript knowledge: closures, prototypes, object-oriented programming, modules, and modern ES6+ features.
 # Languages:
-Russian: Native
-English: Pre-Intermediate
-Kazakh: Basic
+* Russian: Native
+* English: Pre-Intermediate
+* Kazakh: Pre-Intermediate
