@@ -17,6 +17,7 @@ My main strengths are quickly understanding complex aspects and quickly solving 
 * WordPress, Tilda
 # Code Example:
 __KATA__ from __CODEWARS__: Write a class that, when given a string, will return an uppercase string with each letter shifted forward in the alphabet by however many spots the cipher was initialized to.
+
 ```
 
 let CaesarCipher = function (shift) {
@@ -50,6 +51,7 @@ let CaesarCipher = function (shift) {
 };
 
 ```
+
 # Courses
 
 __Aroken Front-End Course__
