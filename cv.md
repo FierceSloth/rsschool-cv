@@ -16,6 +16,7 @@ My main strengths are quickly understanding complex aspects and quickly solving 
 # Code Example:
 __KATA__ from __CODEWARS__: Write a class that, when given a string, will return an uppercase string with each letter shifted forward in the alphabet by however many spots the cipher was initialized to.
 ```
+
 let CaesarCipher = function (shift) {
   const alphabet = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'];
   
@@ -45,6 +46,7 @@ let CaesarCipher = function (shift) {
     return shiftWord.join('')
   }
 };
+
 ```
 # Courses
 
